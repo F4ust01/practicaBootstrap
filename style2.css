@@ -1,0 +1,33 @@
+#javascript {
+    background-image: url('el_remozado_javascript.imagen.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+#machine {
+    background-image: url('download.png');
+    background-size: cover;
+    background-position: center;
+}
+
+#inicio {
+    color: black;
+}
+
+#ux {
+    background-image: url('UX-UI-interna-1.png');
+  background-size: cover;
+  background-position: center;
+}
+
+#python{
+    background-image: url('python-programming-language.png');
+    background-size: cover;
+    background-position: center;  
+}
+
+#mark{
+    background-image: url('por-que-investir-em-marketing-digital.jpg');
+    background-size: cover;
+    background-position: center;
+}

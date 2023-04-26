@@ -1,0 +1,7 @@
+
+body{
+    background-image: linear-gradient(rgba(0, 213, 255, 0), rgba(249, 249, 249, 0)),  
+     url("imagee.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+}
